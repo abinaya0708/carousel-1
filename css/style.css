@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+section{
+	height:100vh;
+	
+}
+
+.carousel-indicators [data-bs-target]{
+	width:10px !important;
+	height:10px !important;
+	background-color:#52d0de !important;
+	border-radius:50%;
+		
+}
+
+.carousel-item{
+	height:80vh;
+	
+}
+.carousel-item img{
+	width:100% !important;
+	height:100%;
+}
+
